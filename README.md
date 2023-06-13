@@ -25,6 +25,15 @@ Here are some ideas to get you started:
 
 ---
 
-## About me
-- :octocat: test
+## :technologist: About Me
+### I'm in midst of a mid-career switch into Data Analytics with a keen interest in Machine Learning
+- :office_worker: Currently attach to DBS (Data Analyst) via TFIP
+- :microscope: Exploring data structures and machine learning models
+- :scroll: In my free time, I explore projects to learn data exploratory and learning how to find efficient ways of automating routine tasks
+- :cat: slave to my cats
+- :envelope_with_arrow: reachable @ezekielkoh ezekiel.kohck@gmail.com
+
+
+
+
 
