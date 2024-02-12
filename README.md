@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - :microscope: Exploring data structures and machine learning models
 - :scroll: In my free time, I explore projects to learn data exploratory and learning how to find efficient ways of automating routine tasks
 - :cat: slave to my cats
-- :envelope_with_arrow: reachable @ezekielkoh ezekiel.kohck@gmail.com
+- :envelope_with_arrow: reachable at ezekiel.kohck@gmail.com
 
 
 
